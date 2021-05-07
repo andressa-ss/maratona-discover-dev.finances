@@ -1,1 +1,0 @@
-# maratona-discover-dev.finances
