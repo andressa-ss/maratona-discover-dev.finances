@@ -6,11 +6,9 @@
 
 <p align="left">O projeto consistiu em criar uma aplicação de finanças 
 onde para trabalhar com operações aritméticas. 
-<br> Foi idealizado pela Rocketseat para a Maratona Discover e as aulas foram 
+<br> Foi idealizado pela [Rocketseat](https://github.com/Rocketseat) para a Maratona Discover e as aulas foram 
 ministradas pelo Mayk Brito. </p>
-<br>
 <h3> Esse projeto foi desenvolvido com as seguintes tecnologias: </h3>
-
 
   * HTML 
   * CSS
