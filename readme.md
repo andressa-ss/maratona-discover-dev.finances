@@ -1,8 +1,8 @@
 <h1 align="center">
   <title="dev.finances" src=".github.com/andressa-ss/maratona-discover-dev.finances/blob/main/assets/logo.svg" width="220px" />
-</h1>
+</h1> 
 
-<h1 align="center">DEV Finance$ - Maratona Discover </h1>
+<h1 align="center">DEV Finance$ - Maratona Discover 🚀</h1>
 
 O projeto consistiu em criar uma aplicação de finanças para trabalhar com operações aritméticas. 
 Nela é possível adicionar e excluir transações e ver os saldos de entradas e saídas.
@@ -15,4 +15,7 @@ ministradas pelo [Mayk Brito](https://github.com/maykbrito).
   * CSS
   * JavaScript
 
-Feito por Andressa Santos, entre em [contato](https://www.linkedin.com/in/andressasantos93/) :)
+Feito por Andressa Santos, acesse a aplicação clicando [aqui](https://andressa-ss.github.io/maratona-discover-dev.finances/).
+<br>
+<br>
+Entre em [contato](https://www.linkedin.com/in/andressasantos93/) :wave:
